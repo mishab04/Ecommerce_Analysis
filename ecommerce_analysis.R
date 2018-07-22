@@ -1,4 +1,4 @@
-setwd('C:/Users/366461/Documents/TCS Internal/Kaggle Data/ecommerce-data')
+setwd('C:/Users/Abhinav/Downloads/My Assigments/Customer Analytics/Ecommerce_analysis/Ecommerce_analysis')
 
 ecomdata <- read.csv('data.csv')
 
