@@ -2,14 +2,14 @@
 """
 Created on Mon Jun 25 19:33:22 2018
 
-@author: 366461
+@author: Abhinav
 """
 
 import os
 import pandas as pd
 import numpy as np
 
-os.chdir('C:/Users/366461/Documents/TCS Internal/Kaggle Data/ecommerce-data')
+os.chdir('C:/Users/Abhinav/Downloads/My Assigments/Customer Analytics/Ecommerce_analysis/Ecommerce_analysis')
 
 ecomdata = pd.read_csv('data.csv',encoding='latin1')
 
